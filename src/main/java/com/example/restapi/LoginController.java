@@ -35,8 +35,6 @@ public class LoginController extends WebClient{
 
     // String loginUrl="https://swgssos.sktelecom.com/swing/skt/login.html"; //https://partnersso.sktelecom.com/swing/skt/login.html
     String loginUrl="https://partnersso.sktelecom.com/swing/skt/login.html";
-    // String iid = "UX533";
-    // String ipassword = "q1w2e3r4((";
     
     @GetMapping("loginChecker")
     //public boolean login (@RequestParam (value = "id", defaultValue = "UK664")  String id, @RequestParam (value = "password", defaultValue = "dbsdkek1!!") String password ) {
